@@ -5,8 +5,7 @@
   "main": "paymentEncoder.js",
   "scripts": {
     "test": "mocha",
-    "coverage": "istanbul cover _mocha -- -R spec",
-    "coveralls": "cat ./coverage/lcov.info | coveralls"
+    "coverage": "istanbul cover _mocha -- -R spec"
   },
   "keywords": [
     "colored coins",

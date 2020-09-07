@@ -1,12 +1,6 @@
 # Burn-Payment-Encoder
-[![Build Status](https://travis-ci.org/Colored-Coins/Burn-Payment-Encoder.svg?branch=master)](https://travis-ci.org/Colored-Coins/Burn-Payment-Encoder) 
-[![Coverage Status](https://coveralls.io/repos/github/Colored-Coins/Burn-Payment-Encoder/badge.svg?branch=master)](https://coveralls.io/github/Colored-Coins/Burn-Payment-Encoder?branch=master)
-[![npm version](https://badge.fury.io/js/cc-burn-payment-encoder.svg)](http://badge.fury.io/js/cc-burn-payment-encoder)  
-[![Slack Status](http://slack.coloredcoins.org/badge.svg)](http://slack.coloredcoins.org)
 
-[![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
-
-Payment-Encoder provides the encode/decode functions between a Colored Coins burn-transaction payment Object to buffer
+> Payment-Encoder provides the encode/decode functions between a Colored Coins burn-transaction payment Object to buffer
 
 ### Installation
 

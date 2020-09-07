@@ -15,7 +15,7 @@
   "author": "inbitcoin s.r.l.",
   "license": "Apache-2.0",
   "dependencies": {
-    "cc-payment-encoder": "^1.0.0",
+    "cc-payment-encoder": "git://github.com/inbitcoin/Payment-Encoder.git#v1.0.2",
     "clone": "^2.0.0"
   },
   "devDependencies": {
